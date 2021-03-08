@@ -1,7 +1,19 @@
-.App {
-  text-align: center;
-}
+/* PALETA DE CORES */
+/* 
+#2E0DA6
+#0511F2
+#F2E205
+#F27405
+#0D0D0D */
 
+/* body{
+} */
+
+.App {
+  background-image: './imagens/fundodepatas.png';
+  
+}
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +47,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */

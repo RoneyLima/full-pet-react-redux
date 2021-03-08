@@ -1,0 +1,27 @@
+footer{
+    width: 100%;
+    max-width: 100%;
+
+}
+
+.footer-container {
+    position:absolute;
+    bottom:60px;
+    width:100%;
+}
+
+/* .footer-container.col img{
+    max-width: 300px;
+    width: 60%;
+} */
+
+.pagto{
+    max-width: 100%;
+    width: 400px;
+    margin-left: 10%;
+}
+
+.copyright{
+    background-color: orange;
+    
+}
